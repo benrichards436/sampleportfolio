@@ -2,5 +2,5 @@ This is my sample portfolio.
 
 
 
-\[more about me](about.md)
+\[more about me](about)
 
