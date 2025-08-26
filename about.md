@@ -2,5 +2,5 @@ about me
 
 
 
-\[more about my projects](index)
+\[more about my projects](./index.md)
 
