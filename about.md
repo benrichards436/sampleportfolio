@@ -2,5 +2,5 @@ about me
 
 
 
-\[more about my projects](readme)
+\[more about my projects](index)
 
